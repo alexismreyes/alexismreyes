@@ -3,16 +3,28 @@
 This is just my profile info to share with you.
 
 ## 🔧 Technologies i have worked with: 
-- JavaScript, TypeScript- 
+- HTML, CSS
+- JavaScript, TypeScript 
 - React, Redux, Vue.js
 - Node.js, Express, Axios
 - Java, Springboot, PHP
 - Docker
+- GIT
 - MySQL, SQL Server, Oracle, MongoDB
+
+- ## 🔧 Tools:
+- Visual Studio Code
+- IntelliJ
+- WebStorm
+- Postman
+- Dreamweaver
+- MysqlYog
+- TOAD
+- DBeaver
 
 
 ## 🚀 Projects
-### Its rather new to me to start sharing projects...If you find anything useful you can use it.
+### Its rather new to me to start sharing projects...If you find anything useful feel free to use it.
 - **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress)
 - **cripto-api**: A react app to share realtime crypto info
 - **my-store**: a node express server to test some backend
