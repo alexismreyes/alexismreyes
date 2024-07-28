@@ -25,7 +25,7 @@ This is just my profile info to share with you.
 
 ## 🚀 Projects
 ### Its rather new to me to start sharing projects...If you find anything useful feel free to use it.
-- **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress - not publicly deployed yet, it just works locally in dev mode by now)
+- **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress - not publicly deployed yet)
 - **k-store**: an ecommerce site similar made with MERN (Mongo - Express.js - React - Node.js) - **(I'm currently working on finish this project)**
 - **cripto-api**: a react app to share realtime crypto info
 - **my-store**: a node express server to test some backend
