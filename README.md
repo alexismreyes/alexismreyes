@@ -28,7 +28,7 @@ This is just my profile info to share with you.
 
 - **huggingface-ai**: Implementation of AI models using React + Express Server + HuggingFace API - [huggingface-ai-frontend.onrender.com](https://huggingface-ai-frontend.onrender.com/)/
 - **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress - not publicly deployed yet)
-- **k-store**: an ecommerce site made with MERN (Mongo - Express.js - React - Node.js) - **(I'm currently working on finish this project)**
+- **k-store**: an ecommerce site made with MERN (Mongo - Express.js - React - Node.js) - **(Work in progress yet)** - https://k-store-theta.vercel.app/
 - **cripto-api**: a react app to share realtime crypto info
 - **my-store**: a node express server to test some backend
 - **weather-api**: A weather api made in React and vanilla javascript
