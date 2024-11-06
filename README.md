@@ -39,5 +39,5 @@ This is just my profile info to share with you.
 
 
 ## 📫 Contact
-- www.linkedin.com/in/alexis-reyes-2358946a
+- www.linkedin.com/in/alexismreyes
 
