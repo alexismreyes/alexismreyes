@@ -26,7 +26,7 @@ This is just my profile info to share with you.
 ## 🚀 Projects
 ### Its rather new to me to start sharing projects...If you find anything useful feel free to use it.
 
-- **huggingface-ai**: Implementation of AI models using React + Express Server + HuggingFace API - [huggingface-ai-frontend.onrender.com](https://huggingface-ai-frontend.onrender.com/)/
+- **huggingface-ai**: Implementation of AI models using React + Express Server + HuggingFace API - [huggingface-ai-frontend.onrender.com](https://huggingface-ai-frontend.onrender.com/)/ (First requests to models in production appears to be lazy to load, i suppose its because the free tier on Render.com which provides minimum hardware resources, following request works fine)
 - **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress - not publicly deployed yet)
 - **k-store**: an ecommerce site made with MERN (Mongo - Express.js - React - Node.js) - **(Work in progress yet)** - https://k-store-theta.vercel.app/
 - **cripto-api**: a react app to share realtime crypto info - https://cripto-api-nu.vercel.app/
