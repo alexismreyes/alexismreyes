@@ -3,30 +3,24 @@
 This is just my profile info to share with you.
 
 ## 🔧 Technologies i have worked with: 
-- HTML, CSS
-- JavaScript, TypeScript 
-- React, Redux, Vue.js
-- Node.js, Express, Axios
-- Java, Springboot, PHP
-- Docker
-- GIT
-- MySQL, SQL Server, Oracle, MongoDB
+- HTML, CSS, JavaScript, TypeScript, React, Vue.js, Vite, 
+- Node.js, Express, Java, Springboot, PHP
+- PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
+- Docker, GIT
+- PhPMaker
 
 - ## 🔧 Tools:
 - Visual Studio Code
-- IntelliJ
-- WebStorm
-- Postman
-- Dreamweaver
-- MysqlYog
-- TOAD
-- DBeaver
+- Cursor, Claude Code, OpenCode, Ollama, Huggingface
+- DBeaver, MysqlYog, TOAD
+- Postman, Bruno
+- Dreamweaver, IntelliJ
 
 
 ## 🚀 Projects
-### Its rather new to me to start sharing projects...If you find anything useful feel free to use it.
+### If you find anything useful feel free to use it.
 
-
+- **devtrack**: Trello like clone app for individual or small team projects and tasks Management - Kanban
 - **gigranger.com**: Employment Platform to allow recruiter post job opportunities and jobseeker find them and apply - made with React + Typescript + Express + MySql - https://gigranger.com
 - **huggingface-ai**: Implementation of AI models using React + Express Server + HuggingFace API - [huggingface-ai-frontend.onrender.com](https://huggingface-ai-frontend.onrender.com/)/ (First requests to models in production appears to be lazy to load, i suppose its because the free tier on Render.com which provides minimum hardware resources, following request works fine)
 - **e-commmerce (multicontainer app)**: A bunch of technologies working together......just to practice. (Work in progress - not publicly deployed yet)
